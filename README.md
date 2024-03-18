@@ -2,6 +2,6 @@
 
 Made for fun
 
-#Preview
+# Preview
 
 ![](https://github.com/tyrohellion/tyrohellion/blob/main/controller.png)
